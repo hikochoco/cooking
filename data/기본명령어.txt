@@ -8,8 +8,8 @@ git remote add ~~원격저장소 별명으로 지을 이름~~ ~~https주소~~~ 	
 git remote -v 	원격저장소 전체 목록 연결 주소 정보
 git remote show ~~별명~~		원격저장소 정보
 git remote rename  ~~원래 별명~~ ~~새 별명~~	원격저장소 별명 변경
-git remote remove 또는 rm 		~~별명~~ 원걱저장소 삭제
-git push --set-upstream  ~~~별명 ~~~ 브랜치(master)~~~ 기본 push 경로 설정
+git remote remove 또는 rm ~~별명~~ 	원격저장소 삭제
+git push --set-upstream  ~~~별명 ~~~ 브랜치(master)~~~ 	기본 push 경로 설정
 
 git branch 	브랜치 목록
 git branch ~~~	브랜치 생성
@@ -18,7 +18,8 @@ git branch -d ~~~ 	브랜치 삭제
 cd d:/git/ ~~~
 git add ~~~	 애드 후
 git add . 		수정된 내용 전체 add
-git commit -m"~~~" 	커밋 후
+git commit -m"~~~" 	커밋 메세지와 함께 커밋 후
+git commit -a 	커밋 메세지 입력 창으로 이동, 메세지를 쓰고 esc, :wq (write & quit)를 사용해 탈출
 git push 		푸시
 
 
