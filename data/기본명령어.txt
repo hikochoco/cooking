@@ -6,10 +6,10 @@ git clone ~~https주소~~		현재 위치에 깃 저장소 전체 복사해오기
 
 git remote add ~~원격저장소 별명으로 지을 이름~~ ~~https주소~~~ 	원격 저장소 설정 및 별명 설정
 git remote -v 	원격저장소 전체 목록 연결 주소 정보
-git remote show 		~~별명~~		원격저장소 정보
-git remote rename 	~~원래 별명~~ ~~새 별명~~	원격저장소 별명 변경
+git remote show ~~별명~~		원격저장소 정보
+git remote rename  ~~원래 별명~~ ~~새 별명~~	원격저장소 별명 변경
 git remote remove 또는 rm 		~~별명~~ 원걱저장소 삭제
-git push --set-upstream 	~~~별명 ~~~ 브랜치(master)~~~ 기본 push 경로 설정
+git push --set-upstream  ~~~별명 ~~~ 브랜치(master)~~~ 기본 push 경로 설정
 
 git branch 	브랜치 목록
 git branch ~~~	브랜치 생성
@@ -30,6 +30,3 @@ git fetch: 리모트 레포지토리의 브랜치를 검토해야할 때
 
 
 https://github.com/hikochoco/cooking.git
-
-
-변경 테스팅
