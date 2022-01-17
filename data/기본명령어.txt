@@ -1,0 +1,32 @@
+git --version 	버젼 확인
+git config --global user.name ~~~	 	pc 전체 계정 셋팅
+git config --global user.email ~~~		pc 전체 계정 메일 셋팅
+
+git clone ~~https주소~~		현재 위치에 깃 저장소 전체 복사해오기
+
+git remote add ~~원격저장소 별명으로 지을 이름~~ ~~https주소~~~ 	원격 저장소 설정 및 별명 설정
+git remote -v 	원격저장소 전체 목록 연결 주소 정보
+git remote show 		~~별명~~		원격저장소 정보
+git remote rename 	~~원래 별명~~ ~~새 별명~~	원격저장소 별명 변경
+git remote remove 또는 rm 		~~별명~~ 원걱저장소 삭제
+git push --set-upstream 	~~~별명 ~~~ 브랜치(master)~~~ 기본 push 경로 설정
+
+git branch 	브랜치 목록
+git branch ~~~	브랜치 생성
+git branch -d ~~~ 	브랜치 삭제
+
+cd d:/git/ ~~~
+git add ~~~	 애드 후
+git add . 		수정된 내용 전체 add
+git commit -m"~~~" 	커밋 후
+git push 		푸시
+
+
+git status 	변경된 내용이 add 해서 스테이지에 가있는지. 그래서 그 내용이 commit이 되어있는지
+git reset 	~~~ 	add 된 내용을 스테이지에서 내리기
+
+git pull: 리모트 레포지토리의 브랜치를 검토 않고 바로 합칠 때
+git fetch: 리모트 레포지토리의 브랜치를 검토해야할 때
+
+
+https://github.com/hikochoco/cooking.git

@@ -1,0 +1,39 @@
+미국 템플 대학의 연구는
+어떻게 이루어졌나?
+
+이 팀은 생후 6개월된 두 그룹 쥐를
+준비하고 한 그룹에는 보통 음식을,
+또 한 그룹에는 큰숟가락 2수저에
+해당되는 카놀라유를 매일 섭취하게
+했다고 해요.
+
+생후 1년이 경과한 시점에서
+카놀라유를 섭취한 쥐는 그렇지 않은
+쥐보다 체중이 무거웠고 더욱이
+단기 기억및 작업 기억 등을
+체크 한 결과 카놀라유를 섭취한
+쥐는 측정 분야 모두에서 학습 능력이
+저하 되었다고 한다
+
+논문을 찾아본 결과
+he study was approved by the Temple Institutional Animal Care and Usage Committee, 
+in accordance with the US National Institutes of Health guidelines. 
+The 3xTg mice harboring 3 transgenes (PS1 M146V, tau P301L, and APP Swe) were used in this study16. 
+For the study we used both male and female mice. 
+Six-month old mice were randomized into two groups: one fed with standard diet (CTR, n = 12), 
+* the other with canola oil-enriched diet (50 mg/Kg) (CO, n = 10) for 6 months. 
+The control mice used in this study have been previously described15. 
+The source of the canola oil added to the diet was 
+* “Mazola®” canola oil, which contains 21% total fat 
+* (1gr saturated fatty acids, 4gr polyunsaturated fatty acids, and 8 gr of monounsaturated fatty acids per serving).
+Fresh diet was provided every other day. 
+Mice underwent behavioral tests
+ at 12 months (6 months treatment) of age as described below and a week later euthanized. 
+After perfusion, brains were removed 
+and immediately dissected in two halves: one was stored at −80 °C for biochemistry; 
+the other fixed in 4% paraformaldehyde in phosphate-buffered saline, pH7.4 for immunohistochemistry.
+
+1kg당 50mg 
+60kg 이면 3000mg = 3g = 1t 미만
+
+https://www.nature.com/articles/s41598-017-17373-3
