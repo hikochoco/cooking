@@ -204,7 +204,7 @@
 	       보리지 순은 쫄깃하고 아삭하며 즙이 많다
 this herb has an unexpected texture and flavor. The fuzzy leaves are crunchy and juicy, and burst with a slightly bitter cucumber-like flavor. Some have even compared its distinctive flavor to that of fresh oysters!
 
-- 옥수수 깜부기 : 과일향 ,시트러스향, 꽃향, 풀향, 채소향, 캐러멜향, 로스팅향, 나무향, 향신료향, 치즈향
+- 옥수수 깜부기 : 과일향, 시트러스향, 꽃향, 풀향, 채소향, 캐러멜향, 로스팅향, 나무향, 향신료향, 치즈향
 영국 배 
 구운 멧돼지 고기
 건포도
@@ -237,7 +237,7 @@ this herb has an unexpected texture and flavor. The fuzzy leaves are crunchy and
 마라 데 부아 딸기
 카다멈 시드
 피카냐
-익힌ㄴ 카무트
+익힌 카무트
 스페인 초리소 소시지
 그린 렌틸
 블랙 트러플
@@ -266,7 +266,7 @@ this herb has an unexpected texture and flavor. The fuzzy leaves are crunchy and
 아몬드
 블루베리
 
-- 바바코 : 과일향, 시트러스향, 꼬ㅗㅊ향, 풀향, 허브향, 로스팅향, 나무향, 향신료향 
+- 바바코 : 과일향, 시트러스향, 꽃향, 풀향, 허브향, 로스팅향, 나무향, 향신료향 
 서양배
 그릴에 구운 찰광어
 체더치즈
