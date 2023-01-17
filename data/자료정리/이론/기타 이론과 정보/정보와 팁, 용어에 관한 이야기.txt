@@ -2665,6 +2665,9 @@ DPPH : α, α-디페닐-β-피크릴히드라질(英 α, α-diphenyl-β-picrylhy
           단당의 2분자 이상이 글리코시드 결합한 것이 이당 기타 다당이며, 
           다당이 다시 다른 비당성분과 글리코시드 결합하여 천연으로 배당체로 존재하고 있는 것이 많다
 
+아글리콘 : aglycone.
+	 배당체를 구성하는 비당 성분
+
 shelf-life : 유통기한
 
 배지 : culture medium, 培地
@@ -2676,6 +2679,9 @@ shelf-life : 유통기한
         청주, 간장, 식초, 사이다, 청징과즙 등이 청징의 상태이다
 
 VBN : 휘발성 염기 질소. volatile basic nitrogen
+        암모니아, 트라이메틸아민(TMA), 다이메틸아민 따위의 휘발성 염기.
+        어패류의 신선도를 판정하는 지표이다 
 
 TBARS : 지방 산패도. thiobarbituric acid reactive substances.
 
+이화학 : 물리학과 화학을 아울러 이르는 말
