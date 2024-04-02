@@ -1,7 +1,8 @@
 git --version 	버젼 확인
 git config --global user.name ~~~	 	pc 전체 계정 셋팅
 git config --global user.email ~~~		pc 전체 계정 메일 셋팅
-
+git config --global pull.rebase true 		pull 방식을 merge가 아닌 rebase로 설정한다
+git config --global pull.rebase false		pull 방식을 rebase가 아닌 merge로 설정한다
 git clone ~~https주소~~		현재 위치에 깃 저장소 전체 복사해오기
 
 git remote add ~~원격저장소 별명으로 지을 이름~~ ~~https주소~~~ 	원격 저장소 설정 및 별명 설정
@@ -24,7 +25,18 @@ git push 		푸시
 
 
 git status 	변경된 내용이 add 해서 스테이지에 가있는지. 그래서 그 내용이 commit이 되어있는지
+
+git log 	commit log 출력
+git reflog	reset 했던 log 출력
+
 git reset 	~~~ 	add 된 내용을 스테이지에서 내리기
+git reset HEAD^	현재 커밋이 아닌 바로 전 단계 커밋으로 돌아간다
+git reset HEAD@{n}	실수록 또는 필요 이상으로 reset 했을 경우 git reflog에서 출력된 n번쨰 커밋으로 돌아간다 
+git reset --hard	수정중이었던 내용을 모두 지우고 add 된 내용을 스테이지에서 내리기. 이후 git pull 하여 최신화
+
+또는 git reset -- hard 버젼명 		커밋했던 내역들이 언스테이징 되고 목표 버젼으로 돌아간다
+
+
 
 git pull: 리모트 레포지토리의 브랜치를 검토 않고 바로 합칠 때
 git fetch: 리모트 레포지토리의 브랜치를 검토해야할 때
