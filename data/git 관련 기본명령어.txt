@@ -1,4 +1,8 @@
 git --version 	버젼 확인
+
+git config -l
+현재 config 설정 상태 확인
+
 git config --global user.name ~~~	 	pc 전체 계정 셋팅
 git config --global user.email ~~~		pc 전체 계정 메일 셋팅
 git config --global pull.rebase true 		pull 방식을 merge가 아닌 rebase로 설정한다

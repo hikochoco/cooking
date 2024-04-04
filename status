@@ -1,0 +1,252 @@
+[33mcommit 8e6ae67f5a23d83d769977144fac63d7e41fb4e3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sung wook laptop <hikochoco@gmail.com>
+Date:   Tue Apr 2 23:44:28 2024 +0900
+
+    add contents about Food materials & informations, add some text about git command
+
+[33mcommit 8c663bda16ccafbd1614d221f13c525e1fa8eaa2[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Mon Apr 1 22:35:49 2024 +0900
+
+    add contents about Vitamin C & Stevio side & Food pigment & terminogies & Food Materials
+
+[33mcommit 8565e4f5c8d659b49aefcd7de2e000bf61af90d1[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Sun Mar 31 22:22:18 2024 +0900
+
+    add contents about Food Pigment, add some thesises
+
+[33mcommit bcd6ec9bc39fef665f0cc1e8e691ddf50b2a6b5e[m
+Author: sung wook laptop <hikochoco@gmail.com>
+Date:   Fri Mar 29 21:35:35 2024 +0900
+
+    add contents about Food Pigment
+
+[33mcommit d60642486365d9a6818b38ee3e900328a0bf47d3[m
+Author: sung wook laptop <hikochoco@gmail.com>
+Date:   Fri Mar 29 01:04:22 2024 +0900
+
+    add some contents about food pigment & terminologies
+
+[33mcommit c64028e1bc9f92151f002a071e84c62ae0997333[m
+Author: sung wook laptop <hikochoco@gmail.com>
+Date:   Wed Mar 27 01:07:15 2024 +0900
+
+    final test
+
+[33mcommit 602d1210ed0a8b326822db121820aa73d51c1529[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Wed Mar 27 01:03:47 2024 +0900
+
+    pull test
+
+[33mcommit fcc5d76e8c9e4a53dabd9bd983b33bdb5867fafd[m
+Merge: e4389b7 31f12c6
+Author: sung wook laptop <hikochoco@gmail.com>
+Date:   Wed Mar 27 00:58:46 2024 +0900
+
+    Merge branch 'main' of https://github.com/hikochoco/cooking
+
+[33mcommit 31f12c6a6c13ca4c2c3667a5a5a33dc2825fc9b3[m[33m ([m[1;31morigin/laptop[m[33m)[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Wed Mar 27 00:43:02 2024 +0900
+
+    correct some typos
+
+[33mcommit e4389b7cd3411d3edfcb0c906626dc47a883b78c[m
+Author: sung wook laptop <hikochoco@gmail.com>
+Date:   Wed Mar 27 00:35:17 2024 +0900
+
+    test
+
+[33mcommit cb5c35401c82a9442baf37f5ef887add14c0b753[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Mon Mar 25 15:44:50 2024 +0900
+
+    add contents about Protein and Amino Acid & Informations & Food Materials, add some Thesises
+
+[33mcommit d77e3376a39a20c363c2cf02c3ff350b14b9e9a9[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Mar 21 16:55:15 2024 +0900
+
+    add some contents about food materials & informations, modify recipe folders & some image folders
+
+[33mcommit 0a689fc5109b3d75cf283c843067a65b75fed622[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Tue Mar 12 16:35:15 2024 +0900
+
+    add some tips about alcohol & terminologies, add some thesises
+
+[33mcommit 7a1c0c6b908cae58ebd9e1670ba8550690e55297[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Sat Dec 16 19:13:55 2023 +0900
+
+    add some ingredients
+
+[33mcommit 4cc5842309e362f5c3ff03ec1f5b0f5c07fade61[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Tue Dec 5 22:11:07 2023 +0900
+
+     ㅡㅐìmodify some folders
+
+[33mcommit 4068149d7230763556b35fad0e3476458747de29[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Nov 23 23:42:38 2023 +0900
+
+    fix image size of ingredients of ainos
+
+[33mcommit 6c310a251b91669745db5fe35d35cbba98a7181a[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Nov 23 23:40:23 2023 +0900
+
+    fix size of images of food pairing aroma wheel of ingredients, modify some folders
+
+[33mcommit 9550d912fd40088c5df5404c05a7546440fd01b6[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Nov 23 22:30:08 2023 +0900
+
+    modify folder list, modify beef sauce recipe
+
+[33mcommit e053b4e0a9391f29ab321eb295bf42f95135cfc4[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Nov 23 09:23:55 2023 +0900
+
+    modify some recipes, tips
+
+[33mcommit 11e55b6feb5838138a287d1d35dabdaafbf02ac6[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Sat Nov 18 16:20:17 2023 +0900
+
+    modify some recipes, correct typos
+
+[33mcommit 087bc27fae84615199a0c4fd61a76a72d76b48bc[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Sat Nov 18 15:38:58 2023 +0900
+
+    add research about salmonella
+
+[33mcommit a34cce238faae9c921c2121102a241f8639b1908[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Sat Nov 18 15:14:03 2023 +0900
+
+    midify some recipes of Osteria Ictus
+
+[33mcommit 6ff8769ee83c721e028ac06bed2e412e70698f0c[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Nov 2 17:45:50 2023 +0900
+
+    add a tip about abalone, add some thesises
+
+[33mcommit 974aa53e5295ba97c6603046da4f4bdb0822ef71[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Aug 3 21:51:25 2023 +0900
+
+    add some thesises about fructose
+
+[33mcommit e4e3cb4ed99bc6617c7fc8e9f735f9e1acf8f42b[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Aug 3 16:38:54 2023 +0900
+
+    add some terminologies, add some thesises
+
+[33mcommit 5a3ab74cf48f0fb084f1732489f470fa23fa45b7[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Aug 3 13:53:01 2023 +0900
+
+    add recipe about abalone prep
+
+[33mcommit 85c2abe595451e57ba7ce10960776280969c7d98[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Aug 3 13:49:07 2023 +0900
+
+    modifyh hamburger sauce recipe, add image about tomato msg, add some thesises, add some texts about tortila
+
+[33mcommit a657798f74ac86d622b27f07b7b2df3d5e157e34[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Sun Apr 30 23:05:12 2023 +0900
+
+    add contents about electromagnetic wave & radiant heat, technical terminology
+
+[33mcommit ae0c2c9c3b6b8d0166f2163298f60ad175de0cda[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Tue Apr 25 13:17:12 2023 +0900
+
+    add text about confit, correct typos
+
+[33mcommit 2c8bf62c61a4fe5b330722e23eba5e0a325054e4[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Mon Mar 27 16:18:45 2023 +0900
+
+    add contents about amygdalin and korean plum(maesil), oil frying
+
+[33mcommit 0ccb20b8c21e81622cb425f45dd2c904398de521[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Tue Mar 21 18:56:05 2023 +0900
+
+    modify recipes of red sauce & chicken breast seasoning
+
+[33mcommit ac92e7919162f69dbb1637ac379bc1d0ef2ca2e6[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Fri Mar 17 16:02:45 2023 +0900
+
+    add texts & images about AGE & & cooking fume & salt
+
+[33mcommit ae8ed2f95df2c54dd767ef6d01bac6e91041c01f[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Fri Mar 17 12:45:54 2023 +0900
+
+    modify salmon tartare recipe
+
+[33mcommit 21bf8fc8eea3da1d312ddc5ff4703ed20e6aaffb[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Fri Feb 24 12:21:57 2023 +0900
+
+    modify some recipes, arrange some image folders
+
+[33mcommit f7cb3e6b9a6678e389799586277d43c41b1a9d07[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Thu Feb 9 16:52:55 2023 +0900
+
+    add images about rice, add some thesises
+
+[33mcommit fc63c598ef9404c593aec3ec9242b25abccfd6c9[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Wed Feb 8 19:17:31 2023 +0900
+
+    add texts about MSG & sweetener & nutirion & terminology, add some thesises
+
+[33mcommit 2015f97e162172a9c6740db8a3d28d646214f089[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Fri Feb 3 11:32:45 2023 +0900
+
+    add texts about phospate & excipient and dextrin, add some thesises
+
+[33mcommit f63ed7b94340bd97b5f117845548ba9bc3397b2c[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Sat Jan 28 13:29:45 2023 +0900
+
+    add texts about vegatarian, add some thesises
+
+[33mcommit 2267af125bed278eaa76f5f2060e01dfbde851f4[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Fri Jan 27 12:47:29 2023 +0900
+
+    add some thesises
+
+[33mcommit cd54387e959dc10cd19478e6af35430b0a35a57a[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Wed Jan 25 15:17:47 2023 +0900
+
+    add texts about concentration, add some thesises
+
+[33mcommit 531beae23ddff56656a6a30a8bcbb67f7bb01d78[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Tue Jan 24 15:57:17 2023 +0900
+
+    add texts about supercritical liquid & thesises about food, add images about fatty acid, add some thesises
+
+[33mcommit 017c76c8c096ec01c9a9f912e70c1949817dcb88[m
+Author: hikochoco <neoncard@naver.com>
+Date:   Tue Jan 17 17:26:52 2023 +0900
+
+    add texts about sweetener & alcohol & oil, add some thesises
