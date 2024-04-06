@@ -1,0 +1,146 @@
+식물의 학명
+식물에 대한 정보를 나라마다, 지역마다 다르게 기록하여 혼란을 주는 것을 방지하기 위해
+세계적으로 공통되는 이름을 지정한 것
+
+식물 학명은 국제 식물 명명법(ICBN)에 따라 정해지며, 
+이를 통해 식물 학자들은 전 세계적으로 동일한 명명법을 사용할 수 있다 
+
+학명은 
+속명 / 종명(종속명) / 명명자
+순으로 표기하며, 명명자는 생략되기도 한다
+
+학명은 라틴어 방식으로 표기하고 발음한다
+신화에 등장하는 신의 이름, 지명이 사용되기도 한다
+ex. 동백나무의 속명 Camellia는 필리핀에서 선교활동을 한 체코슬로바키아의 선교사이자 식물학자의 이름이다
+남성형 명사에서는 -us 또는 -is,
+여성형 명사에서는 -a 또는 -is,
+중성형 명사에서는 -um 또는 -e로 끝난다
+
+ssp. : 아종
+var. : 변종
+cv. : 품종. 재배품종명. 
+‘재배된(cultivated)’과 ‘변종(variety)’이 합쳐져 만들어졌다
+변종은 같은 종이지만 형태적으로 다른 특징을 가진 무리를 말하며, 
+인간이 의도적으로 특별한 성질이나 형태를 가지도록 선발한 변종을 품종이라고 정의한다
+종소명 또는 일반명의 다음에 소문자로 cv.를 쓰고 품종명을 쓰거나, 
+품종명을 단인용부호(' ')로 묶어 준다. 예를 들면, Oryza sativa cv. Ilpumbyeo, O. sativa 'Ilpumbyeo' , rice cv. Ilpumbyeo, 또는 rice 'Ilpumbyeo'로 표시한다.
+
+종명을 2인이 공동으로 발표한 경우에는 et 또는 & 표기
+
+일반명 검색
+http://www.nature.go.kr/kbi/plant/pilbk/selectPlantPilbkGnrlList.do
+
+명명자 검색
+http://www.nature.go.kr/kpni/plant/nmng/selectPlantScnmAthrList.do
+
+
+학명의 표기방법
+
+- 학명은 모두 라틴어 또는 라틴어화한 단어를 사용한다
+
+- 속명의 머릿글자는 대문자로, 종소명은 소문자로 시작해서 쓰고, 이태릭체, 볼드체, 밑줄 등으로 표시한다
+
+- 종소명이 2개 이상의 단어일 경우에는 물피 Echinochloa crus-galli (L.) P. Beauv. 등과 같이 하이픈으로 연결해서 쓴다
+
+- 종명은 벼 Oryza sativa L. 에서와 같이 속명, 종소명, 명명자 순으로 표시한다
+
+- 속명의 경우 벼 O. sativa L.와 같이 첫머리 대문자만 표시가 가능하지만 
+최소 1회는 완전한 학명을 표시해야 한다.
+종소명을 줄여서 Oryza s. L.로 쓸 경우 혼란을 줄 우려가 있다
+
+- 명명자의 축약방법은 규정상 권고사항으로 임의로 축약해서 쓰면 혼란을 줄 우려가 있기 때문에 
+de Candolle=DC. ; C.Linnaeus=L. ; Michaux=Michx. ; J.P.de Beauvois=P. Beauv. ;
+G. Beauverd=Beauverd ; A.Brown=Brown ; R.Brown=R. Br. 등과 같이 권고를 따르는 것이 좋다
+
+- 원명자는 반드시 괄호 안에 표시한 후 새 명명자를 표시해야 한다
+예을 들면 강아지풀은 Panicum viride L.에서 Setaria viridis (L.) P. Beauv. 로 변했기 때문에 
+린네 이름을 괄호 안에 표시해야 하며, 
+개구리밥은 Lemna polyrhiza L.에서 Spirodela polyrhiza (L.) Schleid. 로 변했기 때문에 
+린네 이름이 괄호 안에 있다.
+
+- 아종명(ssp.)과 변종명(var.)은 실질적으로 같은 분류군이다
+예를 들면 올챙이고랭이 Scirpus juncoides ssp. hotarui (Ohwi) T. Koyama와 Scirpus juncoides var. hotarui (Ohwi) Ohwi는 
+각각 유럽과 미국 분류학계의 차이라고 볼 수 있다
+즉, 유럽에서 공부한 학자는 고집스럽게 아종(ssp.)을 쓰고, 
+미국에서 공부한 학자는 변종(var.)을 쓰고 있다
+
+- 명명자 다음에 "f."자가 붙어 있는 경우가 있는데 
+이는 filius (=son)의 약자로서 명명자 아들이란 뜻이다
+예를 들면, 물달개비 Monochoria vaginalis (Burm.f.) Presl, 검정말 Hydrilla verticillata (L.f.) Casp. 등이 있다
+
+- 종명을 2인이 공동으로 발표된 경우에는 ㅇㅇ와 ㅇㅇ라는 표시로 et 또는 &표시를 한다
+예를 들면, 중대가리풀 Centipeda minima (L.) A. Braun et Asch. 등이 있다
+
+- 종명을 3인 이상이 공동으로 발표된 경우에는 ㅇㅇ등이란 뜻으로 et al.로 표시한다.
+
+- 타인의 문헌에 발표한 경우에는 "in"으로 표시하며, 
+Monochoria hastata (L.) Solms in DC.의 경우에는 
+Solms가 디캔돌(DC)의 문헌에 발표를 했다는 뜻이다
+따라서 2인중 1인을 생략할 경우에는 당연히 DC가 양보하여 Monochoria hastata (L.) Solms로 쓸 수가 있다
+
+- 명명 제안자와 정당공표자가 다른 경우에는 ex로 표시해서 구분한다
+예를 들면, 나도겨풀Leersia japonica (Honda) Makino ex Honda 의 경우에는 
+비록 Makino 가 제안은 했더라도 Honda가 공표를 했으므로 
+여기에서는 2인 중에 Makino가 양보를 하여 Leersia japonica (Honda) ex Honda로 쓸 수가 있다
+
+- 새로운 종을 발견하거나 이름을 바꾸고자 할 경우에는 
+먼저 규약에 어긋나지 않는 출판물에 공표를 해야 하고(유효공표), 
+다음에는 규약상 알맞은 기재를 해야 하고(정당공표), 
+그 다음에는 우선권 원리에 따라 먼저 발표를 해야(합법명) 정명이 될 수가 있다
+
+
+
+명명자 표시 이유
+- 명명자를 표시하지 않을 경우, 
+나중에 같은 이름을 다른 종에 사용하는 후일동음명(Homonym)과 구분할 방법이 없고, 
+분류군을 변경하여 종명이 달라졌을 경우에도 
+변경 전후의 이름이 동시에 사용되어 혼란을 일으키기 쉽고, 
+또한 종의 명명시기를 추정하기가 어렵다
+
+
+spp.와 sp.의 차이
+- spp.는 species의 복수로서 속내의 전체 또는 여러 종을 의미하고, 
+sp.는 species의 단수 로서 불명확한 종이지만 속내의 1종만을 의미함
+
+
+재배품종의 표기방법은
+
+- 재배품종명은 종소명 또는 일반명의 다음에 소문자로 cv.를 쓰고 품종명을 쓰거나, 
+품종명을 단인용부호(' ')로 묶어 준다. 예를 들면, Oryza sativa cv. Ilpumbyeo, O. sativa 'Ilpumbyeo' , rice cv. Ilpumbyeo, 또는 rice 'Ilpumbyeo'로 표시한다.
+
+- cv.는 cultivated variety의 약자로서 반드시 소문자로 표시해야 하고, 인용부호를 사용할 경우에는 쌍(" ")으로 하지 않아야 한다.
+
+- 따라서 재배품종을 일컬을 경우에는 cultivated variety이며, variety(변종) 또는 forma(품종)도 아니다.
+
+
+이명이 많은 이유
+- 종에 대한 학자들 사이의 시각차이 때문에 이명이 양산되고 있다고 볼 수 있다
+
+- 현재 Eclipta prostrata L.(1753)로 쓰고 있는 한련초의 예를 들면, 
+이 종명은 사실상 이명법의 원년이 되는 1753년 Linnaeus의 Species Platalum에 수록된 이름이다
+그런데 이상하게도 린네는 속명을 Vervesina 로 바꾸면서 2개 형으로 나누어 
+포복형을 Vervesina prostrata L. (1753)로, 직립형을 V. alba L. (1753)로 명명하였다
+그는 또다시 18년후 이상하게 직립형 한련초V. alba를 E. erecta L. (1771)로 변경하면서도
+ 포복형 한련초V. prostrata L.는 그대로 놓아 두었다
+그리고 17년 후 1848년 Hasskal이 2종은 다르지 않다 하여 E. alba (L.) Hassk.로 통합하였다
+따라서 E. alba (L.) Hassk.이라는 이름은 1981년 Koyama와 Boufford 가 제안할 때까지 별 탈없이 사용되었다
+Koyama &Boufford에 의하면 2종은 
+1848년보다 16년이나 빠른 1832년에 이미 Roxburg에 의해 E. prostrata L.로 통합되었다고 하였다
+따라서 우선권에 따라 E. prostrata L.가 정명이라고 International Botanical Congress(IBC)에 제안을 하였다
+이 제안은 받아 들여져 E. prostrata L.가 정명이 되었고, 
+그 외의 모든 이름은 이명이 되었다
+이처럼 린네의 갈팡질팡 하는 시각 때문에 100년 이상 혼란을 가져왔다
+이 외에도 종명을 가지고 다투는 예가 많다
+
+- 변종명이 종명으로 승격되면서 정명이 이명이 된 예도 있다
+Fumaria bulbosa var. solida L. (1753)은 F. solida (L.) Miller (1771)으로 변경되었다
+
+
+이명이 틀린 이유
+- 국내에 초우점 잡초인 바랭이는 Digitaria ciliaris (Retz.) Koel.가 정명이다
+미국에 많이 서식하고 있는 D. sangunalis (L.) Scop.는 이명도 아니고 부정확한 이름이라고 생각된다
+
+- 국내에 초우점 잡초인 물피는 Echinochloa crus-galli (L.)P. Beauv. var. crus-galli가 정명이다. 유사종 E. caudata Roshev. 또는 E. caudata var. caudata (Roshev.) Kitag.는 이명도 아니고 부정확한 이름이라고 생각된다.
+
+- Ulmus racemosa Thomas (1831)는 신종으로 정당공표되었다 하더라도 
+동일한 이름으로 타종에 사용한 이름 Ulmus racemosa Borkh. (1800)이 있으므로 이명도 될 수 없다
