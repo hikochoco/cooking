@@ -221,7 +221,7 @@ IMP(inosin mono phosphade) -> inosin monophosphate
 p.223
 우럭 설명 부분
 Mya (Arenomya) arenaria oonogail 은 복족류로 진흙 속 또는 더 깊은 곳에서 잡힌다
--> 이 부분은 정말 많이 잘못 되었는데요... 학명과 설명은 우럭 조개에 대한 내용입니다
+-> 이 부분은 정말 많이 잘못 되었는데요... 이 학명과 설명은 우럭 조개에 대한 내용입니다
 -> 우럭. korean rockfish. Sebastes schlegelii. 조피볼락. 그리고 이에 대한 설명으로 수정하셔야 할 것 같습니다
 
 p.224. 
@@ -230,7 +230,7 @@ flathed mullet -> flathead mullet
 mugilcephalus ->  mugil cephalus
 
 p.228
-대체로 패류는 생것일 떄 껍데기가 열려 있는데 -> 닫혀있는데
+대체로 패류는 생것일 때 껍데기가 열려 있는데 -> 닫혀있는데
 
 p.230 또한 새우류는 가용성 성분이 다른 어류들에 비해 적으나
 연체류의 오징어, 문어 등은 이 성분이 ~
@@ -361,5 +361,36 @@ p.279
 포도식초는 와인을 오래 방치하거나 혹은 효모를 넣어 촉진시킨 것으로
 -> 포도식초는 와인을 오래 방치하거나 혹은 효모를 넣어 '발효를' 촉진시킨 것으로
 
+p.280
+자극성 향미재료는 향신료로 들어가는것이 적합해 보입니다
+
+캡사이신(capsaicine) -> capsaicin
+
+p.281 
+적후추 - 바저스 로즈(bajes rose) ->
+핑크 페퍼콘 - baies rose
+핑크페퍼는 베이 로즈 baie(s) rose (Euonymus phellomanus) 열매 또는 
+남미(특히 브라질이나 페루) 페퍼트리(Schinus molle 또는 Schinus terebinthifolia)의 열매입니다
+
+p.283
+산초 설명 부분
+게라니올(geranion) -> geraniol
+
+겨자 설명 부분
+알릴이소티오시아네이트(allylisothi ocyanate) -> allyl isothiocyanate
+
+백겨자의 매운맛 성분은 팔하이드록시 벤질과 이소티오시아네이드로
+-> 팔 하이드록시 -> 파라 하이드록시, 이소티오시아네이드 -> 이소티오시아네이트
+그리고 파라 하이드록시 벤질과 이소티오시아네이트가 아니라
+'파라 하이드록시 벤질 이소티오시아네이트' 까지가 하나의 물질 이름입니다
+
+p.289 
+통후추는 피클이나 익힌 육류에 -> 통겨자는 ~
+
+고추냉이 설명 부분
+보통 향신료로 사용되는 와사비는 일본 와사비이므로
+학명을 Eutrema japonicum syn. Wasabia japonica 로 적는 것이 좀 더 정확하다고 생각합니다
+매운맛 성분은 배당체인 시니그린이 미로시나아제의 작용을 받아 분해하여 생긴 ~
+-> 작용을 받아 분해되어 생긴 ~
 
 교차검증 안함? 
