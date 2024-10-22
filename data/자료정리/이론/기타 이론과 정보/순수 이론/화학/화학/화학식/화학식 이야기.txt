@@ -63,3 +63,113 @@ L 리튬. 아칼리금속을 의미.
 탄소화합물(유기물)에서 
 각진 부분은 C가 없어도 탄소이며
 무조건 수소 H가 붙는 것으로 간주한다
+
+A
+산(Acid)
+정확히는 수소와 합친 HA의 꼴로 쓰이고, A-는 산의 짝염기를 의미한다
+
+Ac
+아세틸(Acetyl)
+악티늄과 중복됨
+
+Am
+아밀(Amyl)
+아메리슘과 중복됨, 아이소펜틸(Isopentyl)이라고도 부름
+
+Ar
+아릴(Aryl)
+아르곤과 중복됨
+
+B
+염기(Base)
+붕소와 중복됨
+BOH 꼴로 쓰이기도 하지만 일반적으로는 B 자체가 염기이고 BH+가 짝산이다
+
+Bn
+벤질(Benzyl)
+
+Bu
+뷰틸(Butyl)
+명시되어 있지 않으면 보통 n-butyl이나 일반적으로 n-Bu, t-Bu 식으로 명시함
+
+Bz
+벤조일(Benzoyl)
+
+Cp
+사이클로펜타다이에닐(Cyclopentadienyl)
+루테튬의 옛 이름 카시오페이움(cassiopeium, 기호 Cp)과 겹친다
+
+Cy
+사이클로헥실(Cyclohexyl)
+
+E
+친전자체(Electrophile)
+보통 E+로서 독립적인 종으로 주로 쓰이지만 친전자체가 결합했다는 의미로도 충분히 사용
+
+Et
+에틸(Ethyl)
+
+Fc
+페로센(Ferrocene)
+가끔 페로세닐(Ferrocenyl)의 약어로도 사용
+
+Im
+이미다졸릴(Imidazolyl)
+
+In
+지시약(Indicator)
+인듐과 중복됨
+지시약의 산성형, 염기성형을 HIn, In- 형태로 표시하기 위해 쓰인다
+
+L
+리간드(Ligand)
+
+M
+금속(Metal)
+
+Me
+메틸(Methyl)
+
+Ms
+메테인설포닐(Methanesulfonyl)
+메실(Mesyl)이라고도 함
+
+Nu
+친핵체(Nucleophile)
+보통 Nu-로서 독립적인 종으로 주로 쓰이지만 친핵체가 결합했다는 의미로도 충분히 사용
+
+Ph
+페닐(Phenyl)
+
+Pr
+프로필(Propyl)
+프라세오디뮴과 중복됨
+명시되어 있지 않으면 보통 n-propyl
+
+Py
+피리딘(Pyridine)
+피리디닐(Pyridinyl)로도 충분히 사용
+
+R
+알킬
+좁은 의미의 알킬기[10]를 의미하기도 하지만, 넓은 의미로도 쓰인다
+
+Tr
+트라이페닐메틸(Triphenylmethyl)
+트리틸(Trityl)이라고도 함
+
+Tf
+트라이플루오로메테인설포닐(Trifluoromethanesulfyl)
+트라이프릴(Triflyl)이라고도 함
+
+Ts
+톨루엔설포닐(Toluenesulfonyl)
+테네신과 중복됨
+토실(Tosyl, Tos)이라고도 함
+
+X
+할로젠
+
+Z
+벤질록시카보닐(Benzyloxycarbonyl)
+Cbz라는 표기가 더 범용적
