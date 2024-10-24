@@ -1,0 +1,65 @@
+화학 결합의 크기. 화학 결합의 세기
+   
+▶ 이온결합 > 공유결합 > 금속결합
+   
+
+결합의 종류
+결합 에너지 (kJ/mol)
+
+이온 결합
+400~4000
+
+공유 결합
+150~1100
+
+금속 결합
+75~1000
+  
+수소 결합의 결합 에너지
+> 10 ~ 40 kJ/mol
+   
+
+
+
+결합의 종류
+결합 에너지 (kcal/mol)
+
+이온 결합
+150~370
+
+공유 결합
+75~300
+
+금속 결합
+25~200
+   
+   
+단, 일부 자료에서는
+▶ 공유결합 > 이온결합 > 금속결합
+
+
+
+  
+이온결합과 공유결합 중 더 강한 결합은?
+Which bond is stronger: ionic or covalent?
+      
+결합 에너지는 원자 사이의 화학 결합의 강도(세기)의 척도이며,
+결합을 깨뜨리는데 필요한 에너지의 양으로 나타낸다.
+이것은 마치 원자들을 접착제로 붙여서 결합시켜 놓았는데,
+접착제의 접착력이 강력할수록,
+원자들을 분리시키려면, 즉 원자간 결합을 깨려면,
+더 많은 에너지가 필요하다는 것과 같은 개념이다.
+따라서 더 높은 결합 에너지는 더 강한 결합을 의미한다.
+   
+Bond energy is the strength of a chemical bond between atoms,
+ expressed as the amount of energy required to break it apart. 
+It is as if the bonded atoms were glued together: the stronger the glue is, 
+the more energy would be needed to break them apart. 
+A higher bond energy, therefore, means a stronger bond.
+   
+   
+이온 결합과 공유 결합의 결합 에너지를 나타내면,
+이온 결합은 400 ~ 4,000 kJ/mol 이고,
+공유 결합은 150 ~ 1,100 kJ/mol 이다
+   
+따라서 이온결합이 공유결합보다 더 강한 결합이다
