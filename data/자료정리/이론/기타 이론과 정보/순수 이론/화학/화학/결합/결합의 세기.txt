@@ -63,3 +63,8 @@ A higher bond energy, therefore, means a stronger bond.
 공유 결합은 150 ~ 1,100 kJ/mol 이다
    
 따라서 이온결합이 공유결합보다 더 강한 결합이다
+
+과산화물이 가지고 있는 O-O 단일결합의 결합 에너지는 
+비금속 원소 간의 공유결합 중 가장 약한 축에 들어가기 때문에 
+매우 쉽게 해리될 수 있다
+- 159KJ/mol
