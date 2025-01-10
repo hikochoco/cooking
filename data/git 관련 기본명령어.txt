@@ -47,3 +47,11 @@ git fetch: 리모트 레포지토리의 브랜치를 검토해야할 때
 
 
 https://github.com/hikochoco/cooking.git
+
+초기 셋팅
+git fork tool 설치
+file - clone
+file - init new repository[원하는 위치(cooking 폴더)에서]
+git config --global pull.rebase true
+git config --global init.defaultBranch main
+커밋, 푸시, 풀 테스트 해보고 브랜치 나눠지면 fork tool에서 해당 브랜치 우클릭 - merge
