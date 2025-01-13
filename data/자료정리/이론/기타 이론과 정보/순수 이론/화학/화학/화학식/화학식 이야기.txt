@@ -169,6 +169,7 @@ Ts
 
 X
 할로젠
+또는 임의의 원자 및 원자단
 
 Z
 벤질록시카보닐(Benzyloxycarbonyl)
