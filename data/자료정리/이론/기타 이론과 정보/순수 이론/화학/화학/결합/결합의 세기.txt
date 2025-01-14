@@ -68,3 +68,8 @@ A higher bond energy, therefore, means a stronger bond.
 비금속 원소 간의 공유결합 중 가장 약한 축에 들어가기 때문에 
 매우 쉽게 해리될 수 있다
 - 159KJ/mol
+
+
+
+
+물분자간 수소결합의 에너지는 4~ 5Kcal/mol 정도
