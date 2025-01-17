@@ -581,6 +581,20 @@ biotin had a significant mass loss at 257–495 °C, which was caused by the dec
 상한서뷔량은 설정되어 있지 않다
 
 
+- 비타민 B군의 조효소 형태
+
+비타민 			조효소 형태
+B1(티아민)			TPP(thiamin pyrophosphate), TTP(thiamin triphosphate)
+B2(리보플라빈)		FMN(flavin mononucleotide), FAD(falvin adenine dinucleotide)
+B3(나이아신)		NAD(nicotinamide adenine dinucleotide), NADP(nicotinamide adenine dinucleotide phosphate)
+B5(판토텐산) 		CoA(coenzyme A)
+B6(피리독신)		PLP(pyridoxal phosphate), PNP(pyridoxine phosphate), PMP(pyridoxamin phosphate)
+B7(바이오틴)		바이오시틴(biocytin)
+B9(엽산)			THF(tetrahydrofolate)
+B12(코발아민) 		아데노실코발아민(adenosylcobalamin), 메틸코발아민(methylcobalamin)
+
+
+
 비타민 C. ascorbic acid.
 
 비타민 C는 항괴혈병성 비타민(antiscorbutic vitamin)이라는 뜻에서
