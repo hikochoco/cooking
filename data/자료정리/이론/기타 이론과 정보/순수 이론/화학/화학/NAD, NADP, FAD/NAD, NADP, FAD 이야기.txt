@@ -30,6 +30,11 @@ NADP+ 및 NADPH의 주요 기능
 FAD 및 FADH2의 주요 기능
 TCA 회로에서 전자전달,  ATP 합성, DNA 복구, 뉴클레오타이드 생합성, 지방산의 베타 산화, 아미노산의 이화작용
 
+글리세롤 3-인산 탈수소효소 (NAD+)의 2가지 기질은 sn-글리세롤 3-인산, NAD+이며, 
+3가지 생성물은 다이하이드록시아세톤 인산, NADH, H+이다.
+
+글리세롤 3-인산 탈수소효소 (NAD+)는 산화환원효소 부류에 속하며, 특히 공여체가 CH-OH기이고 수용체가 NAD+ 또는 NADP+인 효소에 속한다. 글리세롤 3-인산 탈수소효소 (NAD+)는 글리세로인지질 대사에 참여한다.
+
 
 NAD(니코틴아마이드 아데닌 다이뉴클레오타이드, nicotinamide adenine dinucleotide)와 
 NADP(니코틴아마이드 아데닌 다이뉴클레오타이드 인산, nicotinamide adenine dinucleotide phosphate)는 
