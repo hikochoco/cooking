@@ -1,4 +1,5 @@
 과산화물. peroxide.
+활성산소. reactive oxygen species. ROS.
 
 분자 내에 －2가의 O₂기를 가지고 있는 산화물.
 
