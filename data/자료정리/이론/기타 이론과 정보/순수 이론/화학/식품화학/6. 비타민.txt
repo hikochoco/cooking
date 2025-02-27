@@ -482,7 +482,7 @@ In order to fully destroy vitamin b12 you need temperatures around 800c or 1472f
 
 나이아신은 열, 산, 알칼리, 광선, 산성의 조건에 매우 안정하여
 조리 중 거의 손실되지 않으나
-수용성이기 떄문에 물에 침지, 데치기, 찌기 등 조리작업에 의한 손이 일어난다
+수용성이기 때문에 물에 침지, 데치기, 찌기 등 조리작업에 의한 손이 일어난다
 
 * 논문 Thermal analysis of vitamin PP Niacin and niacinamide 에 의하면
 공기중 나이아신의 분해 온도는 238℃으로 보고되었다
