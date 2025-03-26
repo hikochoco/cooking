@@ -3202,3 +3202,5 @@ amp : 아데닐산. adenylic acid. 아데노신인산. denosine monophosphate
 	액체 내부에서 증발하는 현상은 비등이라고 한다
 
 gourmet : 고메. 미식가. 식도락가
+
+CVD : 심혈관 질환
