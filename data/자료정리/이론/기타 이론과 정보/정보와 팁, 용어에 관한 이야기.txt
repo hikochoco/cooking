@@ -3223,3 +3223,5 @@ amp : 아데닐산. adenylic acid. 아데노신인산. denosine monophosphate
 gourmet : 고메. 미식가. 식도락가
 
 CVD : 심혈관 질환
+
+UPF : 초가공식품 (Ultra-Processed Food, UPF)
