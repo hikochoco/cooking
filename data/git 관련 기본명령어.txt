@@ -55,3 +55,6 @@ file - init new repository[원하는 위치(cooking 폴더)에서]
 git config --global pull.rebase true
 git config --global init.defaultBranch main
 커밋, 푸시, 풀 테스트 해보고 브랜치 나눠지면 fork tool에서 해당 브랜치 우클릭 - merge
+
+
+- 현재 레시피 Ignore 중
