@@ -1,5 +1,42 @@
 산화방지제. antioxidants.
 
+
+- 국내 식품첨가물중 산화방지제 품목
+메타중아황산나트륨(Sodium metabisulfite, Na2O5S2)
+메타중아황산칼륨(Potassium Metabisulfite, K2O5S2)
+디부틸히드록시톨루엔(Dibutylhydroxytoluene)
+루틴(rutin) 및 효소처리루틴(Enzymatically modified rutin) 
+레시틴(lecithin)
+​몰식자산(갈산)(gallic acid, C7H6O5)
+몰식자산프로필(갈산프로필)(Propyl gallate, C10H12O5)
+​무수아황산(sulfur dioxide, SO2)
+산성아황산나트륨(Sodium bisulfite, NaHSO3)
+차아황산나트륨(sodium hydrosulfite, Sodium dithionite, Na2S2O4)
+케르세틴(Quercetin, C15H10O7)
+봉선화추출물(garden balsam extract)(주성분은 케르세틴입니다)
+부틸히드록시아니솔(Butylated hydroxyanisole, C11H16O2)
+비타민 C(Vitamin C, L-ascorbate, C6H8O6)
+L-아스코브산나트륨(Sodium L-Ascorbate, C6H7NaO6)
+L-아스코브산칼슘(Calcium L-Ascorbate, CaC12H14O12)
+L-아스코빌스테아레이트(L-Ascorbyl stearate, C24H42O7)
+L-아스코빌팔미테이트(L-Ascorbyl palmitate, C22H38O7)
+비타민 E(Vitamin E)
+에리토브산(erythorbic acid, C6H8O6)
+에리토브산나트륨(Sodium erythorbate, C6H7NaO6)
+γ-오리자놀(γ-Oryzanol)
+페룰린산(Ferulic acid, C10H10O4)
+터셔리부틸히드로퀴논(tert-Butylhydroquinone, TBHQ, C10H14O2)
+이디티에이이나트륨(Ethylenediaminetetraacetic acid, C10H16N2O8)
+차카테킨(Catechin, C15H14O6)
+포도종자추출물(GRAPE SEED EXTRACT)(주성분은 프로시아니딘입니다)
+d-α-토코페롤(d-tocopherol)
+d-토코페롤(혼합형)
+d-α-토코페릴호박산
+d-α-토코페릴아세테이트
+dl-α-토코페릴아세테이트
+
+
+
 산화방지제(Antioxidants)는 활성 라디칼을 생성할 수 있는 화학 반응인 
 산화(또는 자동산화)를 억제하는 화합물입니다
 산화는 생물을 포함한 유기 화합물의 분해로 이어집니다
@@ -80,7 +117,7 @@
 
 
 
-다음은 국내 식품첨가물중 산화방지제 품목입니다
+
 
 - 메타중아황산나트륨(Sodium metabisulfite, Na2O5S2)
 메타증아황산나트륨은 산화방지제, 표백제, 보존료 목적으로 사용됩니다
@@ -170,7 +207,7 @@ PhO• + PhO•→ PhO-OPh
 항산화 유화제로 사용할 수 있습니다
 
 
-- 몰식자산(gallic acid, CH605)
+- 몰식자산, 갈산(gallic acid, CH605)
 몰식자산(갈산)은 산화방지제 목적으로 사용됩니다
 몰식자산은 탄닌을 가수분해하여 얻습니다
 몰식 자산은 카르복실산(-COOH)을 포함하는 페놀 구조이며, 
@@ -181,7 +218,7 @@ PhO• + PhO•→ PhO-OPh
 그리고 산화제인 전이 금속을 킬레이트화 시키는 항산화 작용의 메커니즘이 있습니다
 
 
-- 식자산프로필(Propyl gallate, C10H12O5)
+- 식자산프로필, 갈산 프로필(Propyl gallate, C10H12O5)
 몰식자산프로필은 산화방지제 목적으로 사용됩니다
 몰식자산과 프로판올이 축합되어 형성되는 에스테르입니다
 몰식자산프로필은 버터, 식용유처럼 기름이나 지방이 함유된 식품에 첨가됩니다

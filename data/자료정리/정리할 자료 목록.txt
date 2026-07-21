@@ -1,5 +1,7 @@
 계절별 제철 식재료
 
+샘표 장 프로젝트
+
 
 나라별 대표음식, 고기요리, 생선요리, 샐러드
 
@@ -15,3 +17,29 @@
 풍미사전 1, 2
 the noma guide to fermentation
 The Noma Guide to Building Flavour - 2026년 4월 신간. 번역본 없음
+생선 숙성의 기술
+생선 바이블
+
+
+- 식품첨가물
+보존제
+https://m.blog.naver.com/applepop/221874801385?recommendTrackingCode=2
+https://ko.wikipedia.org/wiki/%EC%8B%9D%ED%92%88%EB%B3%B4%EC%A1%B4%EC%A0%9C
+
+인공감미료
+https://m.blog.naver.com/applepop/222105494471?recommendTrackingCode=2
+
+
+- 화학
+불맛, 불향의 화학성분
+https://m.blog.naver.com/applepop/223702706882?recommendTrackingCode=2
+
+탄소고정
+https://m.blog.naver.com/applepop/222313108261?recommendTrackingCode=2
+
+질소고정
+https://m.blog.naver.com/applepop/222401332928?recommendTrackingCode=2
+
+감칠맛
+https://m.blog.naver.com/applepop/224051253255?recommendTrackingCode=2
+화학 - 에너지시스템 - IMP, GMP, 감칠맛과 생고기의 맛.txt에 추가
