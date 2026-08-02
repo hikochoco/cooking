@@ -1,2 +1,0 @@
-push test
-desktop push
